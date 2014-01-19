@@ -1,0 +1,14 @@
+<mm_project serial_port="COM47" board="Arduino Uno" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="rc_1_main.h" open="yes" />
+    <file name="RC_1.cpp" open="yes" />
+    <file name="CyberLib.h" open="yes" />
+    <file name="CyberLib.cpp" open="yes" />
+    <file name="dht11.h" open="no" />
+    <file name="dht11.cpp" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+  </externals>
+</mm_project>

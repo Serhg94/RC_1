@@ -12,7 +12,7 @@
 #include <dht11.h>
 //
 // мнлеп йнмрпнккепю б ьхме - онбрнпъчыхуяъ ашрэ ме днкфмн!!!
-#define SN 5
+#define SN 6
 
 
 #define VERSION "0.6"

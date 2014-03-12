@@ -16,7 +16,7 @@ int dht11::read()
         // сам запрос - дело не хитрое
         D14_Out;
         D14_Low; //digitalWrite(pin, LOW);
-		delay(20);
+		delay(10);
         D14_High; //digitalWrite(pin, HIGH);
         delayMicroseconds(80);
         D14_In; //pinMode(pin, INPUT);
